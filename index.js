@@ -23,6 +23,6 @@ function iLoveTheBeatles(number){
       BeatleLove = "I love the Beatles";
       number++;
       }
-    while
+    while (number < 15);
   
 }
